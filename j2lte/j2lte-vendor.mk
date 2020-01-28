@@ -50,14 +50,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/j2lte/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     vendor/samsung/j2lte/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
-    vendor/samsung/j2lte/proprietary/lib/hw/camera.exynos3.so:system/lib/hw/camera.exynos5.so \
+    #vendor/samsung/j2lte/proprietary/lib/hw/camera.exynos3.so:system/lib/hw/camera.exynos5.so \
     vendor/samsung/j2lte/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/j2lte/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
     vendor/samsung/j2lte/proprietary/lib/hw/sensors.universal3475.so:system/lib/hw/sensors.universal3475.so \
     vendor/samsung/j2lte/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/j2lte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
+    #vendor/samsung/j2lte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/samsung/j2lte/proprietary/lib/libcsc.so:system/lib/libcsc.so \
-    vendor/samsung/j2lte/proprietary/lib/libexynoscameraexternal.so:system/lib/libexynoscameraexternal.so \
+    #vendor/samsung/j2lte/proprietary/lib/libexynoscameraexternal.so:system/lib/libexynoscameraexternal.so \
     vendor/samsung/j2lte/proprietary/lib/libexynosgscaler.so:system/lib/libexynosgscaler.so \
     vendor/samsung/j2lte/proprietary/lib/libexynosscaler.so:system/lib/libexynosscaler.so \
     vendor/samsung/j2lte/proprietary/lib/libexynosutils.so:system/lib/libexynosutils.so \
@@ -69,7 +69,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/j2lte/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/j2lte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/j2lte/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
+    #vendor/samsung/j2lte/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
     vendor/samsung/j2lte/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/j2lte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j2lte/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
