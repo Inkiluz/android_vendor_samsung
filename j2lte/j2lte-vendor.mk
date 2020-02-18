@@ -93,5 +93,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j2lte/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/samsung/j2lte/proprietary/lib/libsomp.so:system/lib/libsomp.so \
     vendor/samsung/j2lte/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
-    vendor/samsung/j2lte/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
+    vendor/samsung/j2lte/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/j2lte/proprietary/lib/libprotobuf-cpp-fl26.so:system/lib/libprotobuf-cpp-fl26.so \
